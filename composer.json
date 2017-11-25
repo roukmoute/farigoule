@@ -1,0 +1,14 @@
+{
+    "name": "roukmoute/farigoule",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roukmoute",
+            "email": "contact@roukmoute.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
